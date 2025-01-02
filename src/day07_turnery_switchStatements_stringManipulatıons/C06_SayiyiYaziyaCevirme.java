@@ -2,7 +2,7 @@ package day07_turnery_switchStatements_stringManipulatıons;
 
 import java.util.Scanner;
 
-public class C06_SayıyıYazıyaCevirme {
+public class C06_SayiyiYaziyaCevirme {
 
     public static void main(String[] args) {
 
